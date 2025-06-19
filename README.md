@@ -1,1 +1,1 @@
-# odin-landing-page
+This poroject is a basic draft for a landing page, for me to practice flexbox and other parts HTML and CSS.
